@@ -1,0 +1,190 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+} 
+ 
+.navbar { 
+    width: 100%; 
+    height: 100px; 
+    display: flex; 
+    align-items: center; 
+} 
+.logo { 
+    width: 15%; 
+    margin-left: 146px; 
+} 
+.nav-menu { 
+    width: 50%; 
+    text-transform: uppercase; 
+} 
+.list { 
+    display: flex; 
+    justify-content: space-around; 
+    list-style: none; 
+} 
+.list li a { 
+    text-decoration: none; 
+    color: #000; 
+ 
+} 
+.book-btn { 
+    width: 35%; 
+} 
+.book-btn button { 
+    width: 200px; 
+    height: 60px; 
+    background:#5B6460; 
+    color: #fff; 
+    text-transform: uppercase; 
+    margin-left: 177px; 
+    border: 0; 
+} 
+.main-content { 
+    width: 100%; 
+    height: 80vh; 
+    background: url('../img/both-ood-iceland-houses-have-a-hot-tub-at-the-front-overlooking-the-spectacular-scenery-this-makes-the-experience-even-more-surreal-says-ceo-andreas-tiik\ 1.png') center / cover; 
+} 
+.text-block { 
+    color: #fff; 
+    text-decoration:none ; 
+   
+     
+} 
+.container2 { 
+    display: flex; 
+    margin-top: 150px; 
+    
+} 
+.text-con { 
+    margin-left: 147px; 
+    margin-bottom: 50px; 
+ 
+} 
+.text-con h1 { 
+    margin-top: 87px; 
+    margin-bottom: 50px; 
+    text-transform: capitalize; 
+    color: #5B6460; 
+ 
+ 
+font-family: 'Open Sans'; 
+font-style: normal; 
+font-weight: 400; 
+font-size: 40px; 
+line-height: 40px; 
+ 
+} 
+.text-con p { 
+  
+ 
+font-family: 'Open Sans'; 
+font-style: normal; 
+font-weight: 300; 
+font-size: 16px; 
+line-height: 30px; 
+margin-right: 105px; 
+ 
+} 
+.text-con a { 
+    margin-top: 30px; 
+} 
+.container3 { 
+    margin-top: 150px; 
+    margin: auto; 
+    width: 92%; 
+} 
+.container3  img { 
+    width: 33%; 
+margin-top: 100px; 
+} 
+.map { 
+margin-top: 100px; 
+margin-left: 50px; 
+} 
+.box h1 { 
+    font-weight: 400; 
+    size: 40px; 
+    line-height: 40px; 
+    color: #5B6460; 
+    text-transform: capitalize; 
+    margin-top: 150px; 
+    margin-bottom: 50px; 
+    margin-left: 110px; 
+    margin-right: 129px; 
+} 
+.container4 { 
+    display: flex; 
+} 
+.box p { 
+    size: 16px; 
+    font-weight: 300; 
+    line-height: 30px; 
+    color: #333333; 
+    font-style: normal; 
+     margin-right: 129px; 
+    margin-bottom: 50px; 
+    margin-left: 110px; 
+    width: 465px; 
+     
+} 
+.box { 
+    background-color: #E9ECE0; 
+    width: 92%; 
+    height: 500px ; 
+    margin-top: 100px;   
+     
+} 
+.box a { 
+    width: 77px; 
+height: 30px; 
+left: 814px; 
+top: 2546px; 
+ 
+font-family: 'Open Sans'; 
+font-style: italic; 
+font-weight: 400; 
+font-size: 16px; 
+line-height: 30px; 
+/* identical to box height, or 188% */ 
+ 
+ 
+/* forest */ 
+ 
+color: #5B6460; 
+ 
+}
+.container5 {
+    background-color: #5B6460;
+    display: grid;
+    
+    height: 555px;
+    width: 100%;
+    
+    
+}
+.iconssvg{
+    margin-top: 100px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    display: grid;
+    margin-left: 200px;
+    width: 100%;
+}
+.container5 h1 {
+    text-align: center;
+}
+.container6 {
+    display: flex; width: 100%;
+}
+.popa {
+    width: 675px;
+}
+.box {
+    width: 150px;
+    height: 150px;
+border-radius: 100%;
+}
+.box333 h2 {
+    margin-top: 110px;
+   
+}
